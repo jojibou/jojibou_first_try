@@ -1,0 +1,3 @@
+graft jojibou_first_try
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  jojibou_first_try/jupy *
